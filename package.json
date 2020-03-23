@@ -1,0 +1,14 @@
+{
+  "name": "fake-db",
+  "version": "1.0.0",
+  "description": "fake full api request",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "author": "leonardnavarez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
